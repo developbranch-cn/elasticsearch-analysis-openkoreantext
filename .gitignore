@@ -25,6 +25,7 @@ bin/
 gen/
 classes/
 generated/
+target/
 
 #Gradle
 .gradletasknamecache
