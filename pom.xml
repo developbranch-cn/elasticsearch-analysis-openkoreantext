@@ -5,7 +5,7 @@
 
     <groupId>org.openkoreantext</groupId>
     <artifactId>elasticsearch-analysis-openkoreantext</artifactId>
-    <version>7.16.2.0</version>
+    <version>8.12.2.0</version>
     <packaging>jar</packaging>
 
     <properties>
@@ -15,7 +15,7 @@
         <maven.compiler.encoding>UTF-8</maven.compiler.encoding>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <elasticsearch.version>7.16.2</elasticsearch.version>
+        <elasticsearch.version>8.12.2</elasticsearch.version>
         <open.korean.text.version>2.3.1</open.korean.text.version>
         <log4j.version>2.17.1</log4j.version>
         <descriptor.classname>org.elasticsearch.plugin.analysis.openkoreantext.AnalysisOpenKoreanTextPlugin</descriptor.classname>

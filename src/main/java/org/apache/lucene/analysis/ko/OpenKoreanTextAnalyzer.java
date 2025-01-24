@@ -2,7 +2,7 @@ package org.apache.lucene.analysis.ko;
 
 import org.apache.lucene.analysis.*;
 import org.apache.lucene.analysis.miscellaneous.LengthFilter;
-import org.apache.lucene.analysis.standard.ClassicFilter;
+import org.apache.lucene.analysis.classic.ClassicFilter;
 
 import java.io.Reader;
 import java.util.Arrays;
